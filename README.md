@@ -148,7 +148,7 @@ In this demonstration, we’ll dive into the post-installation configuration of 
 
 
 <p>
-9) <strong>To add Help Topics:</strong> Navigate to <strong>Admin Panel > Manage > Help Topics</strong>A.  Then, add a few topics, some examples may include: <strong>Business Critical Outage, Equipment, Password Reset, Personal Computer Issues, etc.</strong><br />
+9) <strong>To add Help Topics:</strong> Navigate to <strong>Admin Panel > Manage > Help Topics</strong>.  Then, add a few topics, some examples may include: <strong>Business Critical Outage, Equipment, Password Reset, Personal Computer Issues, etc.</strong><br />
   </p>
 <br />
 <strong>SLA Help Topics Info</strong>: Help Topics are user-selected topics they believe most accurately describe the issues they're experiencing.  Adding a wide variety of topics can allow for better differentiation between departments of various technical issues.<br />
